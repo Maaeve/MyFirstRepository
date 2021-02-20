@@ -14,5 +14,9 @@ This is a second new branch. Feel free to experiment here.
 
 This is a brand new branch where we'll experiment a lot.
 
+<<<<<<< .merge_file_a00292
 This line was developed while Issue3 was developed.
+=======
+This is the new branch for the ThirdTrial. Hopefully this will work.
+>>>>>>> .merge_file_a13908
 
