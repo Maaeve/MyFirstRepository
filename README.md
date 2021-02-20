@@ -7,3 +7,5 @@ Test for correct push 20-02 11:43.
 Next test for a change in the code. 11:46
 
 Total reset 20-02 13:51. 
+
+This line was developed while issue1 was under development for the second time.
